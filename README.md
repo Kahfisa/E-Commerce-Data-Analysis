@@ -9,3 +9,7 @@ This project analyzes e-commerce data to uncover insights on customer behavior, 
 - Contribution of cities and states to revenue. 
 - Customer payment preferences.
 - Purchase frequency patterns and total customer spending.
+
+## Data Source
+Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
