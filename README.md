@@ -18,6 +18,8 @@ This project analyzes e-commerce data to identify key insights into customer beh
 |Products            |product_id, product_category_name, product_name_length, product_description_length, product_photos_qty, product_weight_g, product_length_cm, product_height_cm, product_width_cm     |
 |Sellers             |seller_id, seller_zip_code_prefix, seller_city, seller_state                                                                                                                         |
 
+Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Business Question
 - What are the demographics of e-commerce customers?
 - Which product categories are the most and least frequently purchased by customers?
